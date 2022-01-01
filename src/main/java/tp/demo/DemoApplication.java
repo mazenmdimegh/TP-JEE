@@ -6,9 +6,6 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import tp.demo.Entities.Delivery;
-import tp.demo.Repositories.ItemRepository;
-import tp.demo.Repositories.CustomerRepository;
-import tp.demo.Repositories.OrderRepository;
 
 
 @SpringBootApplication
